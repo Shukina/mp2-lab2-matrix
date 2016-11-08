@@ -1,0 +1,9 @@
+﻿C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (gtest.vcxproj, sample_utmatrix.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  test_tmatrix.cpp
+  Создание кода...
+  Компиляция...
+  test_tvector.cpp
+  Создание кода...
+C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (sample_utmatrix.vcxproj, test_utmatrix.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  test_utmatrix.vcxproj -> D:\Projects\mp2-lab2-matrix\sln\vc10\Debug\test_utmatrix.exe
+  test_utmatrix.vcxproj -> D:\Projects\mp2-lab2-matrix\sln\vc10\Debug\test_utmatrix.pdb (Full PDB)

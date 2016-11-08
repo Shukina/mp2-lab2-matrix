@@ -1,0 +1,6 @@
+﻿C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (gtest.vcxproj, test_utmatrix.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  sample_matrix.cpp
+cl : командная строка warning D9028: сбой минимальной повторной сборки, возврат к обычной сборке
+sample_matrix.obj : warning LNK4099: "vc140.pdb" PDB не найден с "sample_matrix.obj" или на "D:\Projects\mp2-lab2-matrix\sln\vc10\Debug\vc140.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  sample_utmatrix.vcxproj -> D:\Projects\mp2-lab2-matrix\sln\vc10\Debug\sample_utmatrix.exe
+  sample_utmatrix.vcxproj -> D:\Projects\mp2-lab2-matrix\sln\vc10\Debug\sample_utmatrix.pdb (Full PDB)
